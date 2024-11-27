@@ -16,6 +16,9 @@ Explanation:
 3. Hardware Support: Uses dmesg to check for hardware-related errors.
 4. Resource Contention: Uses vmstat to monitor system resource usage.
 5. Management Issues: Monitors Xen management logs for errors using tail.
+6. set for release.
+
+
 
 
 
